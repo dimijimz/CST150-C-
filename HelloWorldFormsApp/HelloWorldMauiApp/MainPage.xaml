@@ -1,0 +1,20 @@
+﻿Starting Spawn .NET server...
+Starting opening a solution...
+Starting processing the solution file "/Users/dimijimz/Documents/School/CST150 - C#/CST150 - C#.sln" in Dev Kit server...
+#getSession: Failed to running method. Error: 'Canceled: Canceled'
+#getSession: Failed to running method. Error: 'Canceled: Canceled'
+#getSession: Failed to running method. Error: 'Canceled: Canceled'
+Using local .NET runtime at "/Users/dimijimz/Library/Application Support/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.12~arm64~aspnetcore/dotnet"
+Found installed dotnet location "/usr/local/share/dotnet/dotnet" to load projects.
+Project system hosting process will use runtime installed in SDK.
+.NET server started and IPC established in 962ms
+Completed Spawn .NET server (2179ms)
+Completed processing the solution file "/Users/dimijimz/Documents/School/CST150 - C#/CST150 - C#.sln" in Dev Kit server (2407ms)
+Starting restoring NuGet packages...
+Selected configuration: <Default>, active configuration: Debug|Any CPU
+Completed opening a solution (2417ms)
+Starting command: "dotnet" restore /Users/dimijimz/Documents/School/CST150 - C#/CST150 - C#.sln --interactive...
+Completed command: "dotnet" restore /Users/dimijimz/Documents/School/CST150 - C#/CST150 - C#.sln --interactive (753ms)
+Completed restoring NuGet packages (754ms)
+Starting Query for all projects...
+Completed Query for all projects (40ms)

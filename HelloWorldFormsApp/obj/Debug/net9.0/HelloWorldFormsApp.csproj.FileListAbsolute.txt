@@ -1,0 +1,15 @@
+/Users/dimijimz/Documents/School/CST150 - C#/HelloWorldFormsApp/bin/Debug/net9.0/HelloWorldFormsApp
+/Users/dimijimz/Documents/School/CST150 - C#/HelloWorldFormsApp/bin/Debug/net9.0/HelloWorldFormsApp.deps.json
+/Users/dimijimz/Documents/School/CST150 - C#/HelloWorldFormsApp/bin/Debug/net9.0/HelloWorldFormsApp.runtimeconfig.json
+/Users/dimijimz/Documents/School/CST150 - C#/HelloWorldFormsApp/bin/Debug/net9.0/HelloWorldFormsApp.dll
+/Users/dimijimz/Documents/School/CST150 - C#/HelloWorldFormsApp/bin/Debug/net9.0/HelloWorldFormsApp.pdb
+/Users/dimijimz/Documents/School/CST150 - C#/HelloWorldFormsApp/obj/Debug/net9.0/HelloWorldFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimijimz/Documents/School/CST150 - C#/HelloWorldFormsApp/obj/Debug/net9.0/HelloWorldFormsApp.AssemblyInfoInputs.cache
+/Users/dimijimz/Documents/School/CST150 - C#/HelloWorldFormsApp/obj/Debug/net9.0/HelloWorldFormsApp.AssemblyInfo.cs
+/Users/dimijimz/Documents/School/CST150 - C#/HelloWorldFormsApp/obj/Debug/net9.0/HelloWorldFormsApp.csproj.CoreCompileInputs.cache
+/Users/dimijimz/Documents/School/CST150 - C#/HelloWorldFormsApp/obj/Debug/net9.0/HelloWorldFormsApp.sourcelink.json
+/Users/dimijimz/Documents/School/CST150 - C#/HelloWorldFormsApp/obj/Debug/net9.0/HelloWorldFormsApp.dll
+/Users/dimijimz/Documents/School/CST150 - C#/HelloWorldFormsApp/obj/Debug/net9.0/refint/HelloWorldFormsApp.dll
+/Users/dimijimz/Documents/School/CST150 - C#/HelloWorldFormsApp/obj/Debug/net9.0/HelloWorldFormsApp.pdb
+/Users/dimijimz/Documents/School/CST150 - C#/HelloWorldFormsApp/obj/Debug/net9.0/HelloWorldFormsApp.genruntimeconfig.cache
+/Users/dimijimz/Documents/School/CST150 - C#/HelloWorldFormsApp/obj/Debug/net9.0/ref/HelloWorldFormsApp.dll
